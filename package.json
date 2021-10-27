@@ -1,0 +1,19 @@
+{
+  "name": "optimizion.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optimizion/optimizion.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/optimizion/optimizion.github.io/issues"
+  },
+  "homepage": "https://optimizion.github.io"
+}
